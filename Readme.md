@@ -48,3 +48,11 @@ The following table shows the total number of questions and the average question
 **Table 1:** Total number of questions and average question and answer length (in characters) for each difficulty level and domain.  
 *The overall question count is 7,044.*
 
+
+## Evaluation
+The code used for evaluating each model is located in the **`src/`** directory, and the scripts to run these evaluations are provided in the **`scripts/`** directory.
+
+
+## How to cite
+
+
