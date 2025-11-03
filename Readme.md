@@ -2,7 +2,7 @@
 **SinhalaMMLU** is a benchmark dataset for evaluating **multitask language understanding** in **Sinhala**.  
 It aims to measure the performance of multilingual and low-resource LLMs on diverse academic and cultural domains.
 
-## 📘 Overview
+## Overview
 
 | Feature | Description |
 |----------|-------------|
@@ -13,7 +13,7 @@ It aims to measure the performance of multilingual and low-resource LLMs on dive
 | **Difficulty Levels** | Easy / Medium / Hard |
 
 
-### 📚 Subjects by Domain
+### Subjects by Domain
 
 The SinhalaMMLU dataset includes subjects categorized under six main domains, as shown below.
 
@@ -28,7 +28,7 @@ The SinhalaMMLU dataset includes subjects categorized under six main domains, as
 
 **Table 1:** Subjects categorized by domain in the SinhalaMMLU dataset.
 
-### 📊 Dataset Statistics
+### Dataset Statistics
 
 The following table shows the total number of questions and the average question and answer lengths (in characters) for each difficulty level and domain.
 
@@ -52,7 +52,30 @@ The following table shows the total number of questions and the average question
 ## Evaluation
 The code used for evaluating each model is located in the **`src/`** directory, and the scripts to run these evaluations are provided in the **`scripts/`** directory.
 
+## License
+
+The **SinhalaMMLU** dataset is released under the   **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International 
+(CC BY-NC-ND 4.0)** license, which prevents users from altering the instances in the dataset.
 
 ## How to cite
+
+```bibtex
+@inproceedings{pramodya-etal-2025-sinhalammlu,
+    title = "{S}inhala{MMLU}: A Comprehensive Benchmark for Evaluating Multitask Language Understanding in {S}inhala",
+    author = "Pramodya, Ashmari  and Nelki, Nirasha  and Shalinda, Heshan  and Liyanage, Chamila  and Sakai, Yusuke  and
+      Pushpananda, Randil  and Weerasinghe, Ruvan  and Kamigaito, Hidetaka  and Watanabe, Taro",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1673/",
+    pages = "32931--32949",
+    ISBN = "979-8-89176-332-6"
+}
 
 
