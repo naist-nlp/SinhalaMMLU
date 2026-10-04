@@ -59,7 +59,8 @@ The **SinhalaMMLU** dataset is released under the   **Creative Commons Attributi
 
 ### SinhalaMMLU 2.0
 
-For the [ICTer SinhalaMMLU Shared Task](https://sinhalammlu.ucsc.cmb.ac.lk/), we introduce a dedicated hard-category test set with four answer options by randomly dropping one incorrect option from the original five-option questions reported in the paper.
+For the [ICTer SinhalaMMLU Shared Task](https://sinhalammlu.ucsc.cmb.ac.lk/), we will use a dedicated hard-category test set with four answer options, created by randomly dropping one incorrect option from each five-option hard-category question reported in the paper. This test set will be used to evaluate models participating in the shared task.
+
 ## How to cite
 
 ```bibtex
