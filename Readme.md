@@ -57,6 +57,9 @@ The code used for evaluating each model is located in the **`src/`** directory, 
 The **SinhalaMMLU** dataset is released under the   **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International 
 (CC BY-NC-ND 4.0)** license, which prevents users from altering the instances in the dataset.
 
+### SinhalaMMLU 2.0
+
+For the [ICTer SinhalaMMLU Shared Task](https://sinhalammlu.ucsc.cmb.ac.lk/), we introduce a dedicated hard-category test set with four answer options by randomly dropping one incorrect option from the original five-option questions reported in the paper.
 ## How to cite
 
 ```bibtex
@@ -78,6 +81,4 @@ The **SinhalaMMLU** dataset is released under the   **Creative Commons Attributi
     ISBN = "979-8-89176-332-6"
 }
 
-### SinhalaMMLU 2.0
 
-For the [ICTer SinhalaMMLU Shared Task](https://sinhalammlu.ucsc.cmb.ac.lk/), we introduce a dedicated hard-category test set with four answer options by randomly dropping one incorrect option from the original five-option questions reported in the paper.
