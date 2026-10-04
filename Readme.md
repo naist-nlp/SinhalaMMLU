@@ -35,8 +35,8 @@ The following table shows the total number of questions and the average question
 | **Group** | **# Questions** | **Question Length** | **Answer Length** |
 |------------|----------------:|--------------------:|------------------:|
 | **Easy** | 1893 | 59.08 | 16.77 |
-| **Medium** | 2585 | 100.66 | 24.79 |
-| **Hard** | 2566 | 116.40 | 27.53 |
+| **Medium** | 2566 | 100.66 | 24.79 |
+| **Hard** | 2585 | 116.40 | 27.53 |
 |------------|----------------|--------------------|------------------|
 | **STEM** | 629 | 157.82 | 27.42 |
 | **Social Science** | 1084 | 141.80 | 22.34 |
@@ -78,4 +78,6 @@ The **SinhalaMMLU** dataset is released under the   **Creative Commons Attributi
     ISBN = "979-8-89176-332-6"
 }
 
+### SinhalaMMLU 2.0
 
+For the [ICTer SinhalaMMLU Shared Task](https://sinhalammlu.ucsc.cmb.ac.lk/), we introduce a dedicated hard-category test set with four answer options by randomly dropping one incorrect option from the original five-option questions reported in the paper.
